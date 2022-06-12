@@ -4,10 +4,10 @@
 <html lang="en-US"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	
     <script src="./Teste_files/jquery.min.js.download"></script>
-<link rel="stylesheet" id="tema-style-css" href="./Teste_files/style.css" type="text/css" media="all">
-<link rel="stylesheet" id="neptune-portfolio-grid-css" href="./Teste_files/grid.css" type="text/css" media="all">
-<script type="text/javascript" src="./Teste_files/raratheme-companion-public.js.download" id="filtro_ajax-js"></script>
-<script type="text/javascript" src="./Teste_files/isotope.pkgd.js.download" id="teste-filtro-script-js"></script>
+<link rel="stylesheet" id="tema-style-css" href="./css/style.css" type="text/css" media="all">
+<link rel="stylesheet" id="neptune-portfolio-grid-css" href="./css/grid.css" type="text/css" media="all">
+<script type="text/javascript" src="./js/raratheme-companion-public.min.js" id="filtro_ajax-js"></script>
+<script type="text/javascript" src="./js/isotope.pkgd.min.js" id="teste-filtro-script-js"></script>
 	</head>
 
 <body class="page-template-default page page-id-315 logged-in admin-bar wp-custom-logo customize-support" style="">
